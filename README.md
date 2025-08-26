@@ -1,35 +1,60 @@
-#  Rishabh Ganguli – Data Analytics Portfolio
 
-Welcome to my data analytics portfolio!  
-This repository showcases projects in **SQL, Power BI, Tableau, and Python** that demonstrate my ability to turn raw data into insights.  
+# 📊 Rishabh Ganguli – Data Analytics Portfolio
 
-## 🔹 Projects Overview
+Welcome to my data analytics portfolio!
+Here, I showcase projects in **Power BI, Tableau, SQL, and Python** that highlight my ability to transform raw data into actionable insights.
 
-### 1. Grant Applications Dashboard (Power BI)
-- Automated the City of Chandler’s grants tracking system.
-- Reduced 72 hours/month of manual work to zero.
-- Improved pipeline visibility for directors, increasing approval speed 4x.  
-📁 [See Project](PowerBI/Grants_Applications.pbix)
-
-### 2. Customer Segmentation (SQL + Tableau)
-- Used SQL joins and aggregations on customer data.
-- Visualized segments in Tableau for actionable insights.  
-📁 [See Project](Tableau/Market_Segmentation.twbx)
-
-### 3. TB Prevalence Visualization (Tableau)
-- Built global TB analysis dashboards using WHO data.
-- Focus on storytelling with data.  
-📁 [See Project](Tableau/TB_Prevalence.twbx)
+* 📁 [Power BI Projects](https://github.com/rishganguli/Data-Analytics-Portfolio/tree/main/PowerBI)
+* 📁 [Tableau Projects](https://github.com/rishganguli/Data-Analytics-Portfolio/tree/main/Tableau)
+* 📁 SQL (in progress)
+* 📁 Python (in progress)
 
 ---
 
-## 🔹 Tools Used
-- SQL (MySQL, Oracle)
-- Power BI, Tableau
-- Python (Pandas, Matplotlib, Seaborn)
-- Smartsheet (workflow automation)
+## 🔹 Featured Projects
+
+### 1. Grant Applications Dashboard (Power BI)
+
+* Modernized the City of Chandler’s grant application process.
+* Eliminated **72+ hours/month** of manual work through automation.
+* Enabled leadership with real-time pipeline visibility, accelerating approvals **4x**.
+  📂 [View Project](PowerBI/Grants_Applications.pbix)
+
+---
+
+### 2. Customer Segmentation (SQL + Tableau)
+
+* Queried customer data with SQL joins and aggregations.
+* Built Tableau dashboards to identify and visualize key customer segments.
+  📂 [View Project](Tableau/Market_Segmentation.twbx)
+
+---
+
+### 3. Global TB Prevalence (Tableau)
+
+* Analyzed **World Health Organization (WHO)** data.
+* Designed dashboards emphasizing storytelling to communicate global health insights.
+  📂 [View Project](Tableau/TB_Prevalence.twbx)
+
+---
+
+## 🔹 Tools & Technologies
+
+* **Data Visualization:** Power BI, Tableau
+* **Databases:** SQL (MySQL, Oracle)
+* **Programming:** Python (Pandas, Matplotlib, Seaborn)
+* **Workflow Automation:** Smartsheet Gov
 
 ---
 
 ## 🔹 About Me
-Business Intelligence Analyst @ City of Chandler | ASU Business Data Analytics Student | Passionate about data-driven decision making.
+
+I’m a **Business Intelligence Analyst at the City of Chandler** and a **Business Data Analytics student at Arizona State University**.
+My passion lies in using **data-driven decision-making** to improve efficiency, uncover insights, and empower organizations.
+
+---
+
+⚡ More SQL and Python projects are coming soon as I expand this portfolio with new work in advanced analytics and automation.
+
+👉 Would you like me to also draft **a shorter “pinned repo description” version** (2–3 sentences) so your GitHub landing page looks polished at a glance?
+ | ASU Business Data Analytics Student | Passionate about data-driven decision making.
